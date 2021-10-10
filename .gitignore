@@ -1,0 +1,8 @@
+bin/
+.iml
+.idea
+.idea/
+*.idea/
+Atividade2.iml
+*.class
+*.log
