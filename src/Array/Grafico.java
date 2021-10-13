@@ -11,7 +11,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 public class Grafico extends JFrame {
     public Grafico(int arraySize, long multiTElapsedTime, long singleTElapsedTime) {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setTitle("Time of execution: Multithread vs Singlethread");
+        setTitle("Tempo de execução: Multithread vs Singlethread");
         setSize(500, 700);
         setLocationRelativeTo(null);
 

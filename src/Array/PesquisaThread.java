@@ -9,7 +9,6 @@ public class PesquisaThread implements Runnable {
     private static boolean pronto = false;
     private static int index = -1;
 
-
     @Override
     public void run() {
 
